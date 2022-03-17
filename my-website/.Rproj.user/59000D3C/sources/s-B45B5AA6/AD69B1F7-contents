@@ -25,15 +25,15 @@ content:
       captcha: false
 
 #  # Contact details (edit or remove options as required)
-#  email: can2c33@gmail.com
-#  phone: 1 830 237 6601
+  email: can2c33@gmail.com
+  phone: 1 830 237 6601
   address:
-# #   street: 450 Serra Mall
-# #   city: Stanford
-    region: LA,USA
+    street: 
+    city: 
+    region: Greater West Monroen/Ruston, LA area
 # #   postcode: '94305'
-#    country: United States
-#    country_code: US
+    country: United States
+    country_code: US
 #  #coordinates:
 #  #  latitude: '37.4275'
 # #   longitude: '-122.1697'
