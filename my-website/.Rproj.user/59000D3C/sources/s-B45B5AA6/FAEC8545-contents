@@ -13,7 +13,7 @@ role: HR Intern
 organizations:
 - name: DCI Consulting Group
   url: https://www.dciconsult.com/
-  - name: Louisiana Tech University
+- name: Louisiana Tech University
   url: https://www.latech.edu/
 
 # Short bio (displayed in user profile at end of posts)
