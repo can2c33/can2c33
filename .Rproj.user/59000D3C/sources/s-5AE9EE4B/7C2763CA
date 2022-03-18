@@ -1,12 +1,12 @@
 {
-    "id": "D6F67B53",
-    "path": "~/GitHub/can2c33/content/home/demo.md",
-    "project_path": "content/home/demo.md",
-    "type": "markdown",
+    "id": "7C2763CA",
+    "path": "~/GitHub/can2c33/config/_default/menus.yaml",
+    "project_path": "config/_default/menus.yaml",
+    "type": "yaml",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1647617739692.0,
+    "created": 1647620666822.0,
     "source_on_save": false,
     "relative_order": 8,
     "properties": {
