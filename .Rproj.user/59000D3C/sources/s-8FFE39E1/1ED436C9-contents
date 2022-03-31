@@ -44,7 +44,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
   name: Article
-  url: http://www.digitalcommons.www.na-businesspress.com/JBD/JBD20-5/2_CastilloFinal.pdf
+  url: https://search.proquest.com/openview/ed493c1282e632bdd158be517328e416/1?pq-origsite=gscholar&cbl=1576345&casa_token=kHVdPWng08sAAAAA:8QLhPD1dNlAxYad3T-L4ANNdLKkkYWEQeN3Z2sWRKwjbn4z8OGmzhlKJQuYFAK5PKesu6mPdgro
 
 url_pdf: ''
 url_code: ''
