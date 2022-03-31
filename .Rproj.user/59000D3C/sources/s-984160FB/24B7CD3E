@@ -1,17 +1,19 @@
 {
-    "id": "08915A46",
-    "path": "~/GitHub/can2c33/content/home/about.md",
-    "project_path": "content/home/about.md",
+    "id": "24B7CD3E",
+    "path": "~/GitHub/can2c33/content/home/featured.md",
+    "project_path": "content/home/featured.md",
     "type": "markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1647617721268.0,
+    "created": 1648686898646.0,
     "source_on_save": false,
     "relative_order": 4,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "14,8",
+        "scrollLine": "0"
     },
     "folds": "",
     "lastKnownWriteTime": 1646684491,
