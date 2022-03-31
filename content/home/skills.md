@@ -26,7 +26,7 @@ feature:
   name: Statistics
 - description: 70%
   icon: computer-classic
-  icon_pack: fas
+  icon_pack: fab
   name: SPSS
 
 # Uncomment to use emoji icons.
