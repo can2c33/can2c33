@@ -42,9 +42,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
- links:
- - name: Article
- - url: http://www.digitalcommons.www.na-businesspress.com/JBD/JBD20-5/2_CastilloFinal.pdf
+# links:
+# - name: Article
+# - url: http://www.digitalcommons.www.na-businesspress.com/JBD/JBD20-5/2_CastilloFinal.pdf
 
 url_pdf: ''
 url_code: ''
