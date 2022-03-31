@@ -1,26 +1,26 @@
 {
-    "id": "F2FC0607",
-    "path": "~/GitHub/can2c33/content/home/tags.md",
-    "project_path": "content/home/tags.md",
+    "id": "8606076C",
+    "path": "~/GitHub/can2c33/content/home/skills.md",
+    "project_path": "content/home/skills.md",
     "type": "markdown",
-    "hash": "3759061481",
+    "hash": "2206177283",
     "contents": "",
     "dirty": false,
-    "created": 1648758002234.0,
+    "created": 1648758161018.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "7,0",
-        "scrollLine": "0"
+        "cursorPosition": "29,12",
+        "scrollLine": "4"
     },
     "folds": "",
-    "lastKnownWriteTime": 1648758025,
+    "lastKnownWriteTime": 1648758330,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1648758025419,
+    "last_content_update": 1648758330171,
     "read_only": false,
     "read_only_alternatives": []
 }
