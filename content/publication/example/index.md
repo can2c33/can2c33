@@ -6,14 +6,16 @@ title: "An example conference paper"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Matthew Castillo, Ph.D.
+- Frank Igou, Ph.D.
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
+- "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2020-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,16 +25,16 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Assessing and Reconciling Between-Group Differences in Job Analysis Ratings*
+publication_short: In *ARR*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Job analysis is an important tool underlying several organizational functions including performance appraisals, selection, and training. Typical job analyses are conducted with a random, stratified sample of subject matter experts (SMEs). These individuals are often job incumbents who are asked to rate and make judgments concerning the frequency and importance of job tasks. It is presumed that incumbents who perform a job should evaluate it similarly. Accordingly, it may be concerning if there is significant variance in employees’ job analysis ratings depending on what is causing the differences. As such, job analysts must determine if rating differences are legitimate (“real”) or due to error. This review provides an overview of various statistical techniques that can be used to assess the significance of between-group differences in job analysis ratings and how they can be used by job analysis experts to determine the extent to which SME ratings are consistent. In addition to detecting rating differences among SME groups, we also provide practical recommendations for reconciling those differences, if necessary.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This review provides an overview of various statistical techniques that can be used to assess the significance of between-group differences in job analysis ratings and how they can be used by job analysis experts to determine the extent to which SME ratings are consistent.
 
 tags: []
 
@@ -40,9 +42,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+ links:
+ - name: Article
+   url: http://www.digitalcommons.www.na-businesspress.com/JBD/JBD20-5/2_CastilloFinal.pdf
 
 url_pdf: ''
 url_code: ''
@@ -73,7 +75,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
 {{% callout note %}}
