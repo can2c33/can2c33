@@ -3,7 +3,7 @@
     "path": "~/GitHub/can2c33/content/publication/example/index.md",
     "project_path": "content/publication/example/index.md",
     "type": "markdown",
-    "hash": "4187743204",
+    "hash": "2616734895",
     "contents": "",
     "dirty": false,
     "created": 1648751938814.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "50,15",
-        "scrollLine": "36"
+        "cursorPosition": "81,14",
+        "scrollLine": "64"
     },
     "folds": "",
-    "lastKnownWriteTime": 1648753630,
+    "lastKnownWriteTime": 1648754343,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1648753630063,
+    "last_content_update": 1648754343044,
     "read_only": false,
     "read_only_alternatives": []
 }
