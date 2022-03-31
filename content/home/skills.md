@@ -24,7 +24,7 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Analysis & Visualizations
-- description: SPSS, SAS,
+- description: SPSS, SAS
   icon: code 
   icon_pack: fas
   name: Coding & Syntax
