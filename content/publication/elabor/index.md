@@ -39,9 +39,9 @@ tags: [Emotional Labor]
 featured: true
 
 # Custom links (uncomment lines below)
-links:
-  name: Article
-  url: https://www.tandfonline.com/doi/abs/10.1080/07481187.2019.1699201
+#links:
+#  name: Article
+#  url: https://www.tandfonline.com/doi/abs/10.1080/07481187.2019.1699201
 
 url_pdf: ''
 url_code: ''
