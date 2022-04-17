@@ -42,7 +42,7 @@ experience:
     company_logo: org-aros
     location: Louisiana
     date_start: '2019-09-01'
-    date_end: '2022-1-31'
+    date_end: '2022-1-20'
     description: Taught electronic engineering and researched semiconductor physics.
     
   - title: Instructor of Record
