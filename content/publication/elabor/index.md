@@ -55,7 +55,8 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Photo by <a href="https://unsplash.com/@sanengineer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ikhsan Sugiarto</a> on <a href="https://unsplash.com/s/photos/emotional-labor?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
 
