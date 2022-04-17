@@ -63,7 +63,7 @@ experience:
   - title: Instructor of Record
     company: Louisiana Tech University
     company_url: ''
-    company_logo: org-lt
+    company_logo:
     location: Lousiana
     date_start: '2020-06-01'
     date_end: '2022-03-01'
@@ -71,16 +71,41 @@ experience:
         Classes taught in person and online: 
     
         * Introduction to Psychology
-        * Statistics for the SOcial Sciences
+        * Statistics for the Social Sciences
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Assistant & Coordinator
+    company: Louisiana Tech University
+    company_url: ''
+    company_logo: 
+    location: Louisiana
+    date_start: '2019-09-01'
+    date_end: ''
+    description: |2-
+        Responsibilities included:
+        
+        * Coordinate and conduct research studies related to adverse impact, diversity & inclusion, and psychometrics. 
+        * Hire and supervise undergraduate research assistants. 
+        * Prepare and administer research tools including surveys and assessments. 
+        * Perform and interpret quantitative and qualitative statistical data analyses using software including SPSS and R 
+        * Assist with the preparation of grant applications and research reports
+
+  - title: Lab Manager
+    company: Adult Development & Aging Lab
     company_url: ''
     company_logo: 
     location: Texas
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2018-04-01'
+    date_end: '2019-05-01'
+    description: |2-
+      Responsibilities included:
+      
+      * Coordinated and conducted multiple research projects related to emotional labor, compassion fatigue, and generational differences. 
+      * Interviewed and evaluated RAs and coordinated personnel decisions with lab director.  
+      * Hired and supervised 25 undergraduate research assistants. 
+      * Mentored 8 research assistants in writing manuscripts and running statistical analyses.
+      * Prepared and administered research tools including surveys and assessments. 
+      * Performed and interpreted quantitative and qualitative statistical data analyses using software including SPSS and R. 
+      * Presented multiple posters and papers at national and local conferences. 
     
 design:
   columns: '2'
