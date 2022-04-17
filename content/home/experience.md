@@ -38,7 +38,7 @@ experience:
       
   - title: Consultant
     company: AROS COnsulting 
-    company_url: 'https://www.arosconsulting.org/'
+    company_url: ''
     company_logo: org-aros
     location: Louisiana
     date_start: '2019-09-01'
