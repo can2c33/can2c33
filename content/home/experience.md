@@ -49,7 +49,6 @@ experience:
     date_start: '2019-09-01'
     date_end: '2022-01-20'
     description: |2-
-    
     * Taught electronic engineering and 
     * researched semiconductor physics.
     
@@ -61,8 +60,8 @@ experience:
     date_start: '2020-06-01'
     date_end: '2022-03-01'
     description: |2-
-    
     Classes taught in person and online: 
+    
     * Introduction to Psychology
     * Statistics for the SOcial Sciences
 
