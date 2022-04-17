@@ -49,8 +49,10 @@ experience:
     date_start: '2019-09-01'
     date_end: '2022-01-20'
     description: |2-
-    * Taught electronic engineering and 
-    * researched semiconductor physics.
+        Responsibilities include:
+        
+        * Taught electronic engineering and 
+        * researched semiconductor physics.
     
   - title: Instructor of Record
     company: Louisiana Tech University
@@ -60,10 +62,10 @@ experience:
     date_start: '2020-06-01'
     date_end: '2022-03-01'
     description: |2-
-    Classes taught in person and online: 
+        Classes taught in person and online: 
     
-    * Introduction to Psychology
-    * Statistics for the SOcial Sciences
+        * Introduction to Psychology
+        * Statistics for the SOcial Sciences
 
   - title: Professor of Semiconductor Physics
     company: University X
