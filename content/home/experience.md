@@ -73,7 +73,7 @@ experience:
         * Introduction to Psychology
         * Statistics for the Social Sciences
 
-  - title: Research Assistant & Coordinator
+  - title: Research Assistant & Study Coordinator
     company: Louisiana Tech University
     company_url: ''
     company_logo: 
