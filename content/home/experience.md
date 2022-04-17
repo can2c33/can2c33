@@ -42,7 +42,7 @@ experience:
     company_logo: org-aros
     location: Louisiana
     date_start: '2019-09-01'
-    date_end: '2022-1-20'
+    date_end: '2022-01-20'
     description: Taught electronic engineering and researched semiconductor physics.
     
   - title: Instructor of Record
@@ -50,8 +50,8 @@ experience:
     company_url: ''
     company_logo: org-lt
     location: California
-    date_start: '2020-6-01'
-    date_end: '2022-3-1'
+    date_start: '2020-06-01'
+    date_end: '2022-03-01'
     description: Taught Introduction to Psychology and Statistics to undergraduate classes.
 
   - title: Professor of Semiconductor Physics
