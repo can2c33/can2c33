@@ -26,7 +26,7 @@ feature:
   name: Analysis & Visualizations
 - description: Problem Solving
   icon: diagram-venn 
-  icon_pack: fa
+  icon_pack: fas
   name: Critical Thinking
 
 # Uncomment to use emoji icons.
