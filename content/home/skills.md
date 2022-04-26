@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: Analysis & Visualizations
 - description: Problem Solving
-  icon: fa-diagram-venn 
+  icon: fire-extinguisher 
   icon_pack: fas
   name: Critical Thinking
 
