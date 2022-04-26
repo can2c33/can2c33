@@ -24,10 +24,10 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Analysis & Visualizations
-#- description: Problem Solving
-#  icon: diagram-venn 
-#  icon_pack: fa
-#  name: Critical Thinking
+- description: Problem Solving
+  icon: diagram-venn 
+  icon_pack: fa
+  name: Critical Thinking
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
