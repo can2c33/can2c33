@@ -93,6 +93,7 @@ experience:
         * Performed and interpreted quantitative and qualitative statistical data analyses using software including SPSS, Excel, and R 
         * Prepared IRB applications, research reports, research submissions, and manuscripts
 
+
 - title: Research Assistant
     company: Workplace e-Behavior Lab - UTA
     company_url: ''
@@ -118,11 +119,12 @@ experience:
     date_end: '2019-05-01'
     description: |2-
       Responsibilities included:
-        * Coordinated and conducted research related to PTSD, positive memories, and trauma related events 
+              * Coordinated and conducted research related to PTSD, positive memories, and trauma related events 
         * Coded and entered archival data and into Excel and SPSS, managing large datasets
         * Rated qualitative data and participated in sessions to reconcile rater differences 
         * Performed and interpreted quantitative and qualitative statistical data analyses using including SPSS
         * Presented the finding at the University's Scholar's Day conference in April 2019
+
 
   - title: Research Coordinator & Data Specialist
     company: Adult Development & Aging Lab - UNT

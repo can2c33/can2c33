@@ -3,7 +3,7 @@
     "path": "~/GitHub/can2c33/content/home/experience.md",
     "project_path": "content/home/experience.md",
     "type": "markdown",
-    "hash": "3765119825",
+    "hash": "3416147120",
     "contents": "",
     "dirty": false,
     "created": 1659365188812.0,
@@ -12,8 +12,8 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "119,32",
-        "scrollLine": "113",
+        "cursorPosition": "121,6",
+        "scrollLine": "112",
         "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
         "docOutlineVisible": "0",
@@ -21,11 +21,11 @@
         "rmdVisualModeLocation": "2:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1659366865,
+    "lastKnownWriteTime": 1659367111,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1659366865604,
+    "last_content_update": 1659367111264,
     "read_only": false,
     "read_only_alternatives": []
 }
