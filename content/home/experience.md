@@ -119,7 +119,7 @@ experience:
     date_end: '2019-05-01'
     description: |2-
       Responsibilities included:
-              * Coordinated and conducted research related to PTSD, positive memories, and trauma related events 
+        * Coordinated and conducted research related to PTSD, positive memories, and trauma related events 
         * Coded and entered archival data and into Excel and SPSS, managing large datasets
         * Rated qualitative data and participated in sessions to reconcile rater differences 
         * Performed and interpreted quantitative and qualitative statistical data analyses using including SPSS
