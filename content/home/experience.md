@@ -27,8 +27,8 @@ experience:
     company_url: 'https://www.dciconsult.com'
     company_logo:
     location: Washington DC/Remote
-    date_start: '2021-06'
-    date_end: '2022-06'
+    date_start: '2021-06-01'
+    date_end: '2022-06-01'
     description: |2-
         Responsibilities include:
         
