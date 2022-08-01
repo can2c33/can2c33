@@ -102,7 +102,6 @@ experience:
     date_end: '2019-05-01'
     description: |2-
       Responsibilities included:
-        
         * Worked with multiple research teams to develop studies related to cyber vetting, cyber loafing, social media influencers, and influencer emergence
         * Conducted literature reviews and created annotated bibliographies
         * Coded social media profiles, rating on multiple constructs of interest, and entered the data into Excel and SPSS
@@ -119,7 +118,6 @@ experience:
     date_end: '2019-05-01'
     description: |2-
       Responsibilities included:
-      
         * Coordinated and conducted research related to PTSD, positive memories, and trauma related events 
         * Coded and entered archival data and into Excel and SPSS, managing large datasets
         * Rated qualitative data and participated in sessions to reconcile rater differences 
