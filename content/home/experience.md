@@ -82,7 +82,7 @@ experience:
     company_logo: 
     location: Louisiana
     date_start: '2019-09-01'
-    date_end: ''
+    date_end: '2022-05-01'
     description: |2-
         Responsibilities included:
         
@@ -94,7 +94,7 @@ experience:
         * Prepared IRB applications, research reports, research submissions, and manuscripts
 
 
-- title: Research Assistant
+  - title: Research Assistant
     company: Workplace e-Behavior Lab - UTA
     company_url: ''
     company_logo: 
@@ -110,7 +110,7 @@ experience:
         * Designed poster presentation using PowerPoint for presentation at the Society for Industrial and Organizational Psychology Conference in Washington D.C.
 
       
-- title: Research Assistant & Study Coordinator
+  - title: Research Assistant & Study Coordinator
     company: Study of TRaumatic Experiences, Signs, and Symptoms Lab - UNT
     company_url: ''
     company_logo: 
