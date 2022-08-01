@@ -13,10 +13,7 @@ role: Aspiring People Analyst | Organizational Researcher
 organizations:
 - name: Louisiana Tech University
   url: https://www.latech.edu/
-- name: Society for Industrial and Organizational Psychology
-  url: https://www.siop.org/
-- name: International Personnel Assessment Council 
-  url: https://www.ipacweb.org/
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: Passionate about study design, survey development, and psychometrics
@@ -71,6 +68,6 @@ highlight_name: true
 
 With 3+ years assessing individual and employee behavior and organizational research, my areas of interest broadly include data analytics and visualization, psychometrics, and understanding employee preferences and behavior.
 
-I am in the Ph.D. program at Louisiana Tech University in Industrial and Organizational Psychology. My research focuses on Markov analyses, workforce planning, bias in selection systems, utility and adverse impact, and reconciling rater differences in job analysis. CI have published articles in the Journal of Applied Social Psychology, Journal of Positive Psychology, and Journal of Business Diversity. Christina is currently a member of the Society for Industrial and Organizational Psychology (SIOP), International Personnel Assessment Council (IPAC), and Association for Psychological Science (APS).
+I am in the Ph.D. program at Louisiana Tech University in Industrial and Organizational Psychology. My research focuses on Markov analyses, workforce planning, bias in selection systems, utility and adverse impact, and reconciling rater differences in job analysis. I have published articles in the Journal of Applied Social Psychology, Journal of Positive Psychology, and Journal of Business Diversity. Christina is currently a member of the Society for Industrial and Organizational Psychology (SIOP), International Personnel Assessment Council (IPAC), and Association for Psychological Science (APS).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

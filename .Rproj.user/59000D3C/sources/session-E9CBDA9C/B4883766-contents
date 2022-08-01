@@ -27,21 +27,21 @@ experience:
     company_url: 'https://www.dciconsult.com'
     company_logo:
     location: Washington DC/Remote
-    date_start: '2021-04-06'
-    date_end: '2022-09-06'
+    date_start: '2021-06'
+    date_end: '2022-06'
     description: |2-
         Responsibilities include:
         
-        •	Conducted job analytic techniques including interviews, focus groups, and surveys to identify critical work components for use in assessment development and validation efforts, workforce gap analyses, and position evaluations
-        •	Facilitated focus group sessions to learn about the client’s business challenges and existing technologies to identify existing problems and inefficiencies 
-        •	Conducted OFCCP audits and provided compliance driven support through selection process reviews to understand and evaluate organizational needs and potential risk areas
-        •	Conducted content-oriented validation study to evaluate the job-relatedness of assessments and selection instruments
-        •	Created client facing presentations and reports in PowerPoint and Word
-        •	Conducted quality control checks, analyzed data in R, Excel, and SPSS
-        •	Documented technical processes so they may be understood by a nontechnical audience
-        •	Gathered, synthesized, and acted on information to solve issues using effective critical thinking skills
-        •	Managed multiple projects and prioritized competing tasks to meet tight deadlines
-        •	Worked effectively in a virtual environment as a member of a team and with significant autonomy, self-discipline, and organization skills
+        * Conducted job analytic techniques including interviews, focus groups, and surveys to identify critical work components for use in assessment development and validation efforts, workforce gap analyses, and position evaluations
+        * Facilitated focus group sessions to learn about the client’s business challenges and existing technologies to identify existing problems and inefficiencies 
+        * Conducted OFCCP audits and provided compliance driven support through selection process reviews to understand and evaluate organizational needs and potential risk areas
+        * Conducted content-oriented validation study to evaluate the job-relatedness of assessments and selection instruments
+        * Created client facing presentations and reports in PowerPoint and Word
+        * Conducted quality control checks, analyzed data in R, Excel, and SPSS
+        * Documented technical processes so they may be understood by a nontechnical audience
+        * Gathered, synthesized, and acted on information to solve issues using effective critical thinking skills
+        * Managed multiple projects and prioritized competing tasks to meet tight deadlines
+        * Worked effectively in a virtual environment as a member of a team and with significant autonomy, self-discipline, and organization skills
 
       
   - title: Consultant
